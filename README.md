@@ -1,0 +1,1 @@
+# -images-hybrid-azure-architecture.png
